@@ -1,0 +1,22 @@
+{products:
+[{"id":1,"name":"Gazelle, grant's","category":"Purple"},
+{"id":2,"name":"Turtle (unidentified)","category":"Teal"},
+{"id":3,"name":"Glossy ibis","category":"Fuscia"},
+{"id":4,"name":"Savanna fox","category":"Mauv"},
+{"id":5,"name":"Falcon, prairie","category":"Aquamarine"},
+{"id":6,"name":"African pied wagtail","category":"Pink"},
+{"id":7,"name":"Bandicoot, southern brown","category":"Crimson"},
+{"id":8,"name":"Antechinus, brown","category":"Maroon"},
+{"id":9,"name":"Swallow-tail gull","category":"Yellow"},
+{"id":10,"name":"Striped hyena","category":"Yellow"},
+{"id":11,"name":"Bare-faced go away bird","category":"Maroon"},
+{"id":12,"name":"Camel, dromedary","category":"Blue"},
+{"id":13,"name":"Giant armadillo","category":"Puce"},
+{"id":14,"name":"Lemming, collared","category":"Blue"},
+{"id":15,"name":"Jaeger, long-tailed","category":"Aquamarine"},
+{"id":16,"name":"Vulture, turkey","category":"Orange"},
+{"id":17,"name":"Indian peacock","category":"Yellow"},
+{"id":18,"name":"Barbet, levaillant's","category":"Pink"},
+{"id":19,"name":"Ox, musk","category":"Maroon"},
+{"id":20,"name":"Hartebeest, coke's","category":"Aquamarine"}]
+}
